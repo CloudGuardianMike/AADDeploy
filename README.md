@@ -1,0 +1,2 @@
+# AADDeploy
+Deploys AAD connector
